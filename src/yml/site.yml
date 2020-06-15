@@ -1,0 +1,21 @@
+name: shamcode
+title: shamcode | A tech blog worth reading
+description: shamcode is a blog for the tech suvvy, tech feeds worth sharing
+tags:
+  - blog
+  - tech
+  - shamcode
+  - shamulwa
+  - youtube
+email: shamulwa@gmail.com
+disqus_username: disqus_username
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
