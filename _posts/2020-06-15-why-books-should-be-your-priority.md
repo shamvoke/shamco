@@ -1,5 +1,5 @@
 ---
-date: 2020-06-15 12:26:40
+date: 2020-06-01 12:26:40
 layout: post
 title: Why books should be your priority?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
