@@ -7,8 +7,6 @@ tags:
   - shamcode
   - shamulwa
   - youtube
-email: shamulwa@gmail.com
-disqus_username: disqus_username
 show_hero: true
 menu:
   - title: Home
@@ -19,3 +17,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+email: shamulwa@gmail.com
+disqus_username: shamulwa
