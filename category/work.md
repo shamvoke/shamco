@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Work
+title: Windows Customization
 slug: work
 description: A category for work related posts.
 ---
